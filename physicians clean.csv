@@ -1,0 +1,501 @@
+"physician_id","physician_name","specialty","hospital","years_experience"
+"P0001","Dr. Richard Sarker","Cardiology","City Hospital",3
+"P0002","Dr. Tanvir Rahman","Orthopedics","City Hospital",25
+"P0003","Dr. Mary Davis","Cardiology","City Hospital",5
+"P0004","Dr. Tanvir Miller","Internal Medicine","General Hospital",8
+"P0005","Dr. Farhana Miah","Orthopedics","Metro Clinic",7
+"P0006","Dr. Karim Ahmed","Internal Medicine","General Hospital",23
+"P0007","Dr. Mary Brown","Orthopedics","General Hospital",29
+"P0008","Dr. Joseph Williams","Pediatrics","Metro Clinic",7
+"P0009","Dr. Rahim Johnson","Neurology","General Hospital",3
+"P0010","Dr. Hasan Hossain","Pediatrics","Metro Clinic",19
+"P0011","Dr. Mehedi Garcia","Internal Medicine","City Hospital",21
+"P0012","Dr. John Smith","Neurology","Metro Clinic",16
+"P0013","Dr. Patricia Hossain","Orthopedics","City Hospital",14
+"P0014","Dr. Nusrat Ali","Neurology","General Hospital",12
+"P0015","Dr. Imran Martinez","Cardiology","General Hospital",22
+"P0016","Dr. Sadia Chowdhury","Neurology","City Hospital",23
+"P0017","Dr. Elizabeth Rahman","Cardiology","General Hospital",20
+"P0018","Dr. Mehedi Miah","Neurology","Metro Clinic",26
+"P0019","Dr. Patricia Sarker","Cardiology","City Hospital",29
+"P0020","Dr. Nusrat Williams","Internal Medicine","General Hospital",13
+"P0021","Dr. William Miah","Pediatrics","City Hospital",32
+"P0022","Dr. Richard Rodriguez","Orthopedics","Metro Clinic",4
+"P0023","Dr. Richard Uddin","Neurology","Metro Clinic",27
+"P0024","Dr. Michael Khan","Pediatrics","General Hospital",20
+"P0025","Dr. Jessica Rodriguez","Orthopedics","Metro Clinic",31
+"P0026","Dr. Farhana Johnson","Orthopedics","City Hospital",27
+"P0027","Dr. Karen Rahman","Cardiology","Metro Clinic",9
+"P0028","Dr. Sadia Miller","Internal Medicine","City Hospital",33
+"P0029","Dr. Patricia Davis","Internal Medicine","City Hospital",26
+"P0030","Dr. Elizabeth Williams","Pediatrics","Metro Clinic",17
+"P0031","Dr. Linda Ali","Internal Medicine","General Hospital",13
+"P0032","Dr. Michael Uddin","Neurology","Metro Clinic",20
+"P0033","Dr. Joseph Brown","Internal Medicine","City Hospital",25
+"P0034","Dr. John Garcia","Pediatrics","City Hospital",14
+"P0035","Dr. Rahim Martinez","Internal Medicine","Metro Clinic",8
+"P0036","Dr. Michael Uddin","Neurology","General Hospital",22
+"P0037","Dr. Farhana Hossain","Cardiology","General Hospital",25
+"P0038","Dr. John Martinez","Pediatrics","City Hospital",34
+"P0039","Dr. Mehedi Brown","Cardiology","City Hospital",32
+"P0040","Dr. Linda Chowdhury","Cardiology","General Hospital",15
+"P0041","Dr. Elizabeth Davis","Cardiology","Metro Clinic",22
+"P0042","Dr. Linda Davis","Orthopedics","City Hospital",18
+"P0043","Dr. Ayesha Chowdhury","Orthopedics","City Hospital",20
+"P0044","Dr. Jennifer Uddin","Cardiology","General Hospital",12
+"P0045","Dr. Elizabeth Islam","Pediatrics","Metro Clinic",30
+"P0046","Dr. Thomas Rahman","Neurology","General Hospital",25
+"P0047","Dr. Jennifer Smith","Neurology","Metro Clinic",10
+"P0048","Dr. Nusrat Miller","Internal Medicine","Metro Clinic",20
+"P0049","Dr. Thomas Smith","Pediatrics","Metro Clinic",23
+"P0050","Dr. Patricia Davis","Orthopedics","City Hospital",3
+"P0051","Dr. Hasan Ahmed","Cardiology","General Hospital",25
+"P0052","Dr. Sarah Ali","Internal Medicine","General Hospital",10
+"P0053","Dr. Joseph Williams","Neurology","Metro Clinic",31
+"P0054","Dr. Robert Smith","Orthopedics","City Hospital",34
+"P0055","Dr. Imran Jones","Orthopedics","City Hospital",8
+"P0056","Dr. Charles Miller","Cardiology","General Hospital",7
+"P0057","Dr. Farhana Rodriguez","Neurology","City Hospital",17
+"P0058","Dr. Sadia Miller","Pediatrics","City Hospital",24
+"P0059","Dr. Thomas Davis","Orthopedics","Metro Clinic",17
+"P0060","Dr. Patricia Johnson","Cardiology","City Hospital",4
+"P0061","Dr. James Chowdhury","Pediatrics","Metro Clinic",3
+"P0062","Dr. Karim Jones","Neurology","General Hospital",25
+"P0063","Dr. Robert Hossain","Orthopedics","City Hospital",25
+"P0064","Dr. Joseph Williams","Pediatrics","General Hospital",28
+"P0065","Dr. James Williams","Pediatrics","General Hospital",13
+"P0066","Dr. William Rahman","Pediatrics","City Hospital",12
+"P0067","Dr. Linda Williams","Orthopedics","City Hospital",32
+"P0068","Dr. James Jones","Orthopedics","General Hospital",20
+"P0069","Dr. Farhana Khan","Internal Medicine","City Hospital",20
+"P0070","Dr. Richard Rodriguez","Neurology","Metro Clinic",19
+"P0071","Dr. Elizabeth Rahman","Cardiology","Metro Clinic",28
+"P0072","Dr. Farhana Martinez","Pediatrics","City Hospital",10
+"P0073","Dr. Sadia Islam","Internal Medicine","General Hospital",17
+"P0074","Dr. Sarah Miller","Cardiology","City Hospital",10
+"P0075","Dr. Susan Sarker","Internal Medicine","City Hospital",19
+"P0076","Dr. Tanvir Brown","Orthopedics","General Hospital",14
+"P0077","Dr. Mehedi Jones","Pediatrics","General Hospital",29
+"P0078","Dr. Karim Miller","Cardiology","Metro Clinic",10
+"P0079","Dr. Jennifer Rahman","Cardiology","General Hospital",27
+"P0080","Dr. Mary Brown","Cardiology","Metro Clinic",16
+"P0081","Dr. Jennifer Miller","Cardiology","General Hospital",6
+"P0082","Dr. Imran Miah","Cardiology","City Hospital",3
+"P0083","Dr. Rahim Johnson","Internal Medicine","Metro Clinic",3
+"P0084","Dr. Charles Islam","Pediatrics","Metro Clinic",21
+"P0085","Dr. Mehedi Garcia","Orthopedics","Metro Clinic",33
+"P0086","Dr. Sadia Hossain","Orthopedics","City Hospital",18
+"P0087","Dr. Patricia Sarker","Orthopedics","City Hospital",16
+"P0088","Dr. Mehedi Ahmed","Orthopedics","City Hospital",23
+"P0089","Dr. Farhana Miller","Internal Medicine","City Hospital",18
+"P0090","Dr. Mehedi Smith","Neurology","City Hospital",7
+"P0091","Dr. James Sarker","Pediatrics","Metro Clinic",11
+"P0092","Dr. Jennifer Rodriguez","Cardiology","City Hospital",28
+"P0093","Dr. Robert Miller","Neurology","Metro Clinic",32
+"P0094","Dr. David Davis","Orthopedics","City Hospital",30
+"P0095","Dr. Imran Rodriguez","Neurology","General Hospital",4
+"P0096","Dr. Mehedi Jones","Pediatrics","Metro Clinic",20
+"P0097","Dr. James Miah","Cardiology","General Hospital",34
+"P0098","Dr. Charles Hossain","Cardiology","Metro Clinic",8
+"P0099","Dr. Hasan Rahman","Pediatrics","General Hospital",33
+"P0100","Dr. Imran Rodriguez","Pediatrics","City Hospital",11
+"P0101","Dr. Karen Ali","Orthopedics","City Hospital",3
+"P0102","Dr. Mehedi Ali","Cardiology","City Hospital",11
+"P0103","Dr. Farhana Sarker","Neurology","Metro Clinic",27
+"P0104","Dr. Patricia Miller","Internal Medicine","General Hospital",18
+"P0105","Dr. John Williams","Internal Medicine","City Hospital",15
+"P0106","Dr. Susan Jones","Pediatrics","General Hospital",11
+"P0107","Dr. Susan Ali","Orthopedics","General Hospital",23
+"P0108","Dr. Imran Ali","Internal Medicine","City Hospital",15
+"P0109","Dr. John Johnson","Cardiology","City Hospital",33
+"P0110","Dr. Sadia Jones","Pediatrics","General Hospital",11
+"P0111","Dr. James Smith","Neurology","City Hospital",13
+"P0112","Dr. Sarah Johnson","Pediatrics","City Hospital",6
+"P0113","Dr. Ayesha Hossain","Neurology","City Hospital",4
+"P0114","Dr. Farhana Garcia","Pediatrics","Metro Clinic",31
+"P0115","Dr. Karim Brown","Pediatrics","General Hospital",8
+"P0116","Dr. Karim Ahmed","Pediatrics","General Hospital",16
+"P0117","Dr. Hasan Ali","Neurology","Metro Clinic",6
+"P0118","Dr. David Jones","Neurology","General Hospital",8
+"P0119","Dr. Karen Johnson","Pediatrics","City Hospital",21
+"P0120","Dr. David Ahmed","Internal Medicine","General Hospital",8
+"P0121","Dr. Barbara Chowdhury","Orthopedics","City Hospital",4
+"P0122","Dr. James Rodriguez","Orthopedics","Metro Clinic",20
+"P0123","Dr. Sadia Garcia","Orthopedics","City Hospital",15
+"P0124","Dr. Barbara Williams","Neurology","General Hospital",11
+"P0125","Dr. Karen Brown","Neurology","General Hospital",25
+"P0126","Dr. Sarah Williams","Internal Medicine","General Hospital",21
+"P0127","Dr. Sarah Sarker","Orthopedics","Metro Clinic",15
+"P0128","Dr. Richard Sarker","Orthopedics","Metro Clinic",13
+"P0129","Dr. Thomas Smith","Pediatrics","General Hospital",3
+"P0130","Dr. Joseph Miller","Neurology","City Hospital",26
+"P0131","Dr. Jessica Davis","Orthopedics","Metro Clinic",32
+"P0132","Dr. James Ahmed","Internal Medicine","General Hospital",24
+"P0133","Dr. Sadia Uddin","Internal Medicine","General Hospital",9
+"P0134","Dr. Karim Martinez","Orthopedics","Metro Clinic",27
+"P0135","Dr. Robert Miller","Neurology","Metro Clinic",23
+"P0136","Dr. Sadia Chowdhury","Internal Medicine","Metro Clinic",17
+"P0137","Dr. Farhana Chowdhury","Pediatrics","City Hospital",3
+"P0138","Dr. Nusrat Sarker","Internal Medicine","City Hospital",14
+"P0139","Dr. Sadia Ali","Cardiology","General Hospital",28
+"P0140","Dr. John Smith","Cardiology","Metro Clinic",9
+"P0141","Dr. Barbara Hossain","Neurology","City Hospital",17
+"P0142","Dr. William Jones","Orthopedics","Metro Clinic",23
+"P0143","Dr. Imran Rodriguez","Neurology","General Hospital",21
+"P0144","Dr. Thomas Williams","Neurology","City Hospital",30
+"P0145","Dr. Sarah Chowdhury","Neurology","City Hospital",31
+"P0146","Dr. Barbara Williams","Neurology","City Hospital",27
+"P0147","Dr. Karen Smith","Pediatrics","General Hospital",3
+"P0148","Dr. Hasan Sarker","Pediatrics","Metro Clinic",19
+"P0149","Dr. Mary Ali","Internal Medicine","City Hospital",34
+"P0150","Dr. Joseph Brown","Cardiology","General Hospital",19
+"P0151","Dr. David Davis","Neurology","Metro Clinic",5
+"P0152","Dr. Karen Williams","Internal Medicine","General Hospital",14
+"P0153","Dr. Barbara Williams","Cardiology","Metro Clinic",8
+"P0154","Dr. Nusrat Uddin","Orthopedics","General Hospital",28
+"P0155","Dr. Linda Uddin","Pediatrics","Metro Clinic",13
+"P0156","Dr. John Williams","Cardiology","City Hospital",5
+"P0157","Dr. Barbara Rodriguez","Orthopedics","Metro Clinic",10
+"P0158","Dr. Michael Smith","Cardiology","General Hospital",16
+"P0159","Dr. Michael Smith","Pediatrics","General Hospital",16
+"P0160","Dr. Linda Chowdhury","Pediatrics","Metro Clinic",12
+"P0161","Dr. Karen Davis","Internal Medicine","City Hospital",4
+"P0162","Dr. Richard Williams","Neurology","City Hospital",16
+"P0163","Dr. Susan Smith","Cardiology","Metro Clinic",11
+"P0164","Dr. Barbara Hossain","Cardiology","Metro Clinic",5
+"P0165","Dr. Imran Miah","Orthopedics","General Hospital",23
+"P0166","Dr. Rahim Khan","Pediatrics","City Hospital",28
+"P0167","Dr. Mehedi Garcia","Cardiology","Metro Clinic",10
+"P0168","Dr. David Islam","Pediatrics","City Hospital",18
+"P0169","Dr. Sarah Davis","Cardiology","Metro Clinic",4
+"P0170","Dr. Imran Johnson","Internal Medicine","Metro Clinic",8
+"P0171","Dr. Ayesha Smith","Neurology","City Hospital",30
+"P0172","Dr. Sadia Rahman","Cardiology","Metro Clinic",23
+"P0173","Dr. James Jones","Pediatrics","Metro Clinic",31
+"P0174","Dr. Sadia Chowdhury","Internal Medicine","General Hospital",28
+"P0175","Dr. Sarah Brown","Cardiology","Metro Clinic",27
+"P0176","Dr. Robert Ali","Orthopedics","Metro Clinic",14
+"P0177","Dr. Susan Hossain","Neurology","Metro Clinic",7
+"P0178","Dr. Sadia Khan","Cardiology","General Hospital",4
+"P0179","Dr. Ayesha Garcia","Internal Medicine","City Hospital",18
+"P0180","Dr. Robert Rodriguez","Orthopedics","General Hospital",7
+"P0181","Dr. William Ali","Internal Medicine","General Hospital",17
+"P0182","Dr. Linda Williams","Internal Medicine","City Hospital",14
+"P0183","Dr. Sadia Smith","Orthopedics","General Hospital",6
+"P0184","Dr. Karen Smith","Internal Medicine","City Hospital",17
+"P0185","Dr. Robert Uddin","Orthopedics","General Hospital",13
+"P0186","Dr. Nusrat Martinez","Cardiology","City Hospital",18
+"P0187","Dr. Rahim Williams","Orthopedics","Metro Clinic",25
+"P0188","Dr. Joseph Khan","Orthopedics","General Hospital",8
+"P0189","Dr. Hasan Uddin","Neurology","General Hospital",16
+"P0190","Dr. Elizabeth Johnson","Orthopedics","General Hospital",20
+"P0191","Dr. Imran Martinez","Orthopedics","General Hospital",14
+"P0192","Dr. John Ali","Cardiology","Metro Clinic",29
+"P0193","Dr. Joseph Smith","Neurology","General Hospital",13
+"P0194","Dr. Thomas Ahmed","Pediatrics","Metro Clinic",15
+"P0195","Dr. Rahim Chowdhury","Cardiology","Metro Clinic",23
+"P0196","Dr. Richard Martinez","Cardiology","Metro Clinic",25
+"P0197","Dr. Karim Williams","Pediatrics","Metro Clinic",13
+"P0198","Dr. Jessica Islam","Orthopedics","City Hospital",25
+"P0199","Dr. Sadia Miller","Internal Medicine","City Hospital",18
+"P0200","Dr. Nusrat Brown","Neurology","General Hospital",17
+"P0201","Dr. Jennifer Sarker","Internal Medicine","City Hospital",23
+"P0202","Dr. James Davis","Pediatrics","City Hospital",30
+"P0203","Dr. Linda Chowdhury","Cardiology","General Hospital",17
+"P0204","Dr. Linda Hossain","Cardiology","General Hospital",27
+"P0205","Dr. Sarah Rahman","Neurology","General Hospital",6
+"P0206","Dr. Sadia Johnson","Cardiology","City Hospital",13
+"P0207","Dr. John Miah","Cardiology","City Hospital",21
+"P0208","Dr. Nusrat Ali","Neurology","General Hospital",17
+"P0209","Dr. Karen Martinez","Neurology","Metro Clinic",6
+"P0210","Dr. David Rahman","Pediatrics","General Hospital",23
+"P0211","Dr. Rahim Ahmed","Cardiology","Metro Clinic",15
+"P0212","Dr. Sadia Jones","Cardiology","Metro Clinic",24
+"P0213","Dr. James Davis","Pediatrics","General Hospital",21
+"P0214","Dr. Ayesha Hossain","Orthopedics","General Hospital",4
+"P0215","Dr. Patricia Jones","Orthopedics","General Hospital",16
+"P0216","Dr. Richard Brown","Orthopedics","City Hospital",31
+"P0217","Dr. David Islam","Pediatrics","Metro Clinic",6
+"P0218","Dr. Karen Rahman","Cardiology","City Hospital",18
+"P0219","Dr. Robert Davis","Pediatrics","City Hospital",23
+"P0220","Dr. Karen Chowdhury","Pediatrics","General Hospital",22
+"P0221","Dr. Jennifer Uddin","Orthopedics","City Hospital",16
+"P0222","Dr. Sadia Martinez","Internal Medicine","General Hospital",29
+"P0223","Dr. Mehedi Miah","Cardiology","Metro Clinic",31
+"P0224","Dr. Susan Miah","Orthopedics","General Hospital",17
+"P0225","Dr. Sadia Jones","Internal Medicine","City Hospital",30
+"P0226","Dr. Farhana Rodriguez","Internal Medicine","City Hospital",5
+"P0227","Dr. Patricia Smith","Neurology","General Hospital",10
+"P0228","Dr. Farhana Smith","Cardiology","General Hospital",18
+"P0229","Dr. Elizabeth Johnson","Internal Medicine","City Hospital",12
+"P0230","Dr. Mehedi Chowdhury","Orthopedics","Metro Clinic",6
+"P0231","Dr. Nusrat Davis","Neurology","Metro Clinic",32
+"P0232","Dr. Jennifer Smith","Cardiology","General Hospital",20
+"P0233","Dr. Barbara Miller","Pediatrics","Metro Clinic",4
+"P0234","Dr. William Williams","Orthopedics","City Hospital",19
+"P0235","Dr. Patricia Chowdhury","Internal Medicine","General Hospital",15
+"P0236","Dr. Sarah Jones","Internal Medicine","City Hospital",6
+"P0237","Dr. Rahim Khan","Orthopedics","City Hospital",28
+"P0238","Dr. Sadia Jones","Internal Medicine","Metro Clinic",27
+"P0239","Dr. Elizabeth Ali","Neurology","General Hospital",32
+"P0240","Dr. Mehedi Khan","Cardiology","General Hospital",13
+"P0241","Dr. Mehedi Sarker","Neurology","Metro Clinic",9
+"P0242","Dr. William Hossain","Internal Medicine","City Hospital",33
+"P0243","Dr. Barbara Chowdhury","Pediatrics","City Hospital",14
+"P0244","Dr. Ayesha Miller","Cardiology","City Hospital",12
+"P0245","Dr. Michael Smith","Cardiology","City Hospital",9
+"P0246","Dr. Mehedi Jones","Orthopedics","General Hospital",15
+"P0247","Dr. Karim Martinez","Orthopedics","General Hospital",33
+"P0248","Dr. Rahim Jones","Pediatrics","Metro Clinic",9
+"P0249","Dr. Michael Johnson","Cardiology","Metro Clinic",33
+"P0250","Dr. Karen Martinez","Pediatrics","General Hospital",26
+"P0251","Dr. Farhana Miah","Orthopedics","General Hospital",19
+"P0252","Dr. Farhana Smith","Orthopedics","City Hospital",12
+"P0253","Dr. Hasan Jones","Cardiology","City Hospital",31
+"P0254","Dr. Jennifer Brown","Neurology","Metro Clinic",12
+"P0255","Dr. Barbara Chowdhury","Internal Medicine","General Hospital",26
+"P0256","Dr. Karim Johnson","Orthopedics","Metro Clinic",6
+"P0257","Dr. Susan Sarker","Orthopedics","General Hospital",22
+"P0258","Dr. Hasan Hossain","Neurology","City Hospital",6
+"P0259","Dr. Jessica Williams","Neurology","Metro Clinic",24
+"P0260","Dr. Sadia Smith","Pediatrics","Metro Clinic",9
+"P0261","Dr. James Miah","Pediatrics","General Hospital",24
+"P0262","Dr. Mary Jones","Internal Medicine","City Hospital",3
+"P0263","Dr. Patricia Williams","Internal Medicine","Metro Clinic",14
+"P0264","Dr. James Smith","Cardiology","City Hospital",26
+"P0265","Dr. Joseph Martinez","Pediatrics","Metro Clinic",15
+"P0266","Dr. Mary Hossain","Orthopedics","City Hospital",12
+"P0267","Dr. Tanvir Islam","Pediatrics","General Hospital",17
+"P0268","Dr. Patricia Khan","Orthopedics","Metro Clinic",29
+"P0269","Dr. John Miah","Neurology","Metro Clinic",15
+"P0270","Dr. Jessica Williams","Pediatrics","City Hospital",25
+"P0271","Dr. Karim Ali","Neurology","City Hospital",24
+"P0272","Dr. Farhana Davis","Internal Medicine","Metro Clinic",24
+"P0273","Dr. Tanvir Martinez","Internal Medicine","General Hospital",23
+"P0274","Dr. Farhana Johnson","Cardiology","City Hospital",24
+"P0275","Dr. Sarah Rodriguez","Pediatrics","City Hospital",30
+"P0276","Dr. Richard Brown","Neurology","City Hospital",11
+"P0277","Dr. Farhana Uddin","Orthopedics","Metro Clinic",28
+"P0278","Dr. Jennifer Ahmed","Internal Medicine","Metro Clinic",11
+"P0279","Dr. Tanvir Brown","Internal Medicine","Metro Clinic",17
+"P0280","Dr. Nusrat Brown","Orthopedics","Metro Clinic",12
+"P0281","Dr. Charles Jones","Neurology","General Hospital",26
+"P0282","Dr. Thomas Williams","Neurology","General Hospital",28
+"P0283","Dr. Susan Williams","Pediatrics","Metro Clinic",27
+"P0284","Dr. Barbara Brown","Pediatrics","General Hospital",31
+"P0285","Dr. Jessica Ali","Cardiology","City Hospital",12
+"P0286","Dr. Richard Jones","Internal Medicine","City Hospital",10
+"P0287","Dr. Patricia Ali","Pediatrics","City Hospital",26
+"P0288","Dr. Karim Islam","Neurology","Metro Clinic",18
+"P0289","Dr. Karim Williams","Orthopedics","City Hospital",19
+"P0290","Dr. Thomas Ali","Neurology","General Hospital",28
+"P0291","Dr. Susan Sarker","Internal Medicine","Metro Clinic",29
+"P0292","Dr. Barbara Islam","Neurology","General Hospital",7
+"P0293","Dr. Imran Miah","Cardiology","City Hospital",6
+"P0294","Dr. Susan Brown","Internal Medicine","City Hospital",20
+"P0295","Dr. Patricia Rodriguez","Orthopedics","City Hospital",26
+"P0296","Dr. Sarah Hossain","Cardiology","Metro Clinic",21
+"P0297","Dr. Thomas Miller","Internal Medicine","General Hospital",6
+"P0298","Dr. Sadia Khan","Orthopedics","Metro Clinic",30
+"P0299","Dr. Karen Miah","Cardiology","Metro Clinic",9
+"P0300","Dr. Farhana Rahman","Cardiology","City Hospital",12
+"P0301","Dr. Barbara Jones","Internal Medicine","Metro Clinic",27
+"P0302","Dr. Robert Hossain","Pediatrics","Metro Clinic",20
+"P0303","Dr. Nusrat Sarker","Cardiology","City Hospital",21
+"P0304","Dr. Imran Brown","Cardiology","Metro Clinic",6
+"P0305","Dr. Ayesha Chowdhury","Orthopedics","City Hospital",12
+"P0306","Dr. Nusrat Miller","Neurology","City Hospital",3
+"P0307","Dr. Jennifer Martinez","Internal Medicine","City Hospital",25
+"P0308","Dr. Farhana Miller","Internal Medicine","City Hospital",20
+"P0309","Dr. Linda Jones","Pediatrics","Metro Clinic",7
+"P0310","Dr. Robert Ahmed","Pediatrics","City Hospital",17
+"P0311","Dr. Mary Uddin","Internal Medicine","City Hospital",19
+"P0312","Dr. Elizabeth Hossain","Pediatrics","Metro Clinic",5
+"P0313","Dr. Thomas Martinez","Orthopedics","Metro Clinic",14
+"P0314","Dr. Farhana Hossain","Internal Medicine","General Hospital",4
+"P0315","Dr. Susan Garcia","Pediatrics","Metro Clinic",3
+"P0316","Dr. Richard Khan","Internal Medicine","Metro Clinic",25
+"P0317","Dr. Jennifer Davis","Neurology","General Hospital",23
+"P0318","Dr. Charles Rodriguez","Cardiology","Metro Clinic",19
+"P0319","Dr. Jessica Johnson","Internal Medicine","Metro Clinic",24
+"P0320","Dr. William Jones","Cardiology","Metro Clinic",18
+"P0321","Dr. David Miah","Pediatrics","Metro Clinic",7
+"P0322","Dr. Joseph Chowdhury","Cardiology","General Hospital",17
+"P0323","Dr. Jennifer Smith","Internal Medicine","Metro Clinic",5
+"P0324","Dr. Rahim Sarker","Neurology","Metro Clinic",30
+"P0325","Dr. Susan Miller","Pediatrics","General Hospital",9
+"P0326","Dr. Nusrat Islam","Internal Medicine","City Hospital",34
+"P0327","Dr. Michael Brown","Pediatrics","General Hospital",13
+"P0328","Dr. David Miah","Orthopedics","City Hospital",12
+"P0329","Dr. Tanvir Hossain","Cardiology","General Hospital",11
+"P0330","Dr. Rahim Miller","Orthopedics","General Hospital",16
+"P0331","Dr. Imran Martinez","Internal Medicine","Metro Clinic",15
+"P0332","Dr. Farhana Miah","Neurology","City Hospital",31
+"P0333","Dr. Richard Williams","Pediatrics","Metro Clinic",27
+"P0334","Dr. Jennifer Islam","Cardiology","City Hospital",32
+"P0335","Dr. Jessica Sarker","Pediatrics","General Hospital",27
+"P0336","Dr. Sadia Davis","Internal Medicine","General Hospital",4
+"P0337","Dr. Tanvir Rodriguez","Pediatrics","City Hospital",34
+"P0338","Dr. Richard Smith","Cardiology","Metro Clinic",5
+"P0339","Dr. Robert Islam","Internal Medicine","Metro Clinic",9
+"P0340","Dr. Sadia Ali","Pediatrics","Metro Clinic",23
+"P0341","Dr. Nusrat Smith","Neurology","Metro Clinic",20
+"P0342","Dr. David Garcia","Internal Medicine","General Hospital",5
+"P0343","Dr. Farhana Hossain","Internal Medicine","General Hospital",12
+"P0344","Dr. Jennifer Islam","Neurology","General Hospital",24
+"P0345","Dr. Tanvir Rahman","Orthopedics","General Hospital",31
+"P0346","Dr. Ayesha Chowdhury","Cardiology","General Hospital",9
+"P0347","Dr. Rahim Ahmed","Orthopedics","Metro Clinic",11
+"P0348","Dr. Sadia Jones","Pediatrics","Metro Clinic",19
+"P0349","Dr. Michael Williams","Neurology","Metro Clinic",13
+"P0350","Dr. Sarah Sarker","Orthopedics","Metro Clinic",9
+"P0351","Dr. Nusrat Uddin","Internal Medicine","General Hospital",26
+"P0352","Dr. Elizabeth Rodriguez","Pediatrics","General Hospital",30
+"P0353","Dr. Susan Khan","Pediatrics","General Hospital",16
+"P0354","Dr. Elizabeth Smith","Orthopedics","City Hospital",21
+"P0355","Dr. Ayesha Williams","Orthopedics","Metro Clinic",6
+"P0356","Dr. Barbara Ahmed","Neurology","Metro Clinic",28
+"P0357","Dr. Patricia Martinez","Cardiology","General Hospital",8
+"P0358","Dr. Barbara Davis","Orthopedics","Metro Clinic",12
+"P0359","Dr. David Hossain","Orthopedics","Metro Clinic",34
+"P0360","Dr. Hasan Davis","Internal Medicine","General Hospital",9
+"P0361","Dr. Farhana Brown","Pediatrics","City Hospital",15
+"P0362","Dr. Farhana Davis","Cardiology","City Hospital",16
+"P0363","Dr. Farhana Uddin","Internal Medicine","City Hospital",6
+"P0364","Dr. Sadia Jones","Neurology","General Hospital",10
+"P0365","Dr. Thomas Brown","Neurology","Metro Clinic",7
+"P0366","Dr. Imran Ali","Orthopedics","General Hospital",3
+"P0367","Dr. Thomas Smith","Orthopedics","General Hospital",6
+"P0368","Dr. Ayesha Sarker","Neurology","Metro Clinic",5
+"P0369","Dr. Jennifer Chowdhury","Orthopedics","City Hospital",11
+"P0370","Dr. Tanvir Islam","Cardiology","City Hospital",10
+"P0371","Dr. Linda Williams","Orthopedics","General Hospital",3
+"P0372","Dr. Tanvir Garcia","Pediatrics","City Hospital",29
+"P0373","Dr. Jessica Miah","Orthopedics","General Hospital",8
+"P0374","Dr. William Rahman","Internal Medicine","General Hospital",11
+"P0375","Dr. Nusrat Johnson","Cardiology","Metro Clinic",9
+"P0376","Dr. Charles Uddin","Internal Medicine","Metro Clinic",6
+"P0377","Dr. Imran Islam","Internal Medicine","Metro Clinic",15
+"P0378","Dr. William Smith","Pediatrics","General Hospital",19
+"P0379","Dr. Rahim Smith","Cardiology","Metro Clinic",30
+"P0380","Dr. Jessica Rahman","Cardiology","City Hospital",4
+"P0381","Dr. Susan Ahmed","Cardiology","City Hospital",30
+"P0382","Dr. Ayesha Ali","Cardiology","General Hospital",7
+"P0383","Dr. Jennifer Smith","Cardiology","General Hospital",14
+"P0384","Dr. John Rodriguez","Pediatrics","Metro Clinic",29
+"P0385","Dr. Robert Smith","Orthopedics","General Hospital",34
+"P0386","Dr. Ayesha Chowdhury","Internal Medicine","General Hospital",23
+"P0387","Dr. Karim Garcia","Cardiology","City Hospital",10
+"P0388","Dr. Sadia Ali","Orthopedics","City Hospital",8
+"P0389","Dr. William Jones","Orthopedics","Metro Clinic",10
+"P0390","Dr. David Williams","Internal Medicine","General Hospital",20
+"P0391","Dr. Ayesha Jones","Pediatrics","General Hospital",5
+"P0392","Dr. Ayesha Jones","Neurology","City Hospital",24
+"P0393","Dr. Charles Martinez","Neurology","General Hospital",14
+"P0394","Dr. Sarah Ali","Orthopedics","City Hospital",31
+"P0395","Dr. Ayesha Khan","Internal Medicine","Metro Clinic",28
+"P0396","Dr. Thomas Khan","Neurology","City Hospital",5
+"P0397","Dr. James Miah","Orthopedics","General Hospital",24
+"P0398","Dr. Jennifer Islam","Pediatrics","Metro Clinic",8
+"P0399","Dr. Michael Smith","Neurology","City Hospital",4
+"P0400","Dr. Susan Davis","Orthopedics","City Hospital",25
+"P0401","Dr. John Davis","Orthopedics","Metro Clinic",14
+"P0402","Dr. Richard Johnson","Cardiology","Metro Clinic",4
+"P0403","Dr. Rahim Williams","Pediatrics","City Hospital",8
+"P0404","Dr. Imran Uddin","Cardiology","General Hospital",19
+"P0405","Dr. Patricia Smith","Internal Medicine","City Hospital",5
+"P0406","Dr. Rahim Hossain","Cardiology","Metro Clinic",4
+"P0407","Dr. William Ali","Cardiology","City Hospital",25
+"P0408","Dr. Barbara Rahman","Neurology","Metro Clinic",32
+"P0409","Dr. Karim Rahman","Orthopedics","Metro Clinic",22
+"P0410","Dr. William Khan","Pediatrics","General Hospital",10
+"P0411","Dr. John Ahmed","Cardiology","Metro Clinic",24
+"P0412","Dr. Sarah Miller","Pediatrics","Metro Clinic",14
+"P0413","Dr. David Johnson","Cardiology","General Hospital",28
+"P0414","Dr. David Uddin","Internal Medicine","Metro Clinic",6
+"P0415","Dr. John Uddin","Cardiology","General Hospital",7
+"P0416","Dr. Mehedi Rahman","Neurology","General Hospital",15
+"P0417","Dr. Imran Miah","Orthopedics","Metro Clinic",31
+"P0418","Dr. John Sarker","Internal Medicine","Metro Clinic",33
+"P0419","Dr. Nusrat Garcia","Cardiology","City Hospital",17
+"P0420","Dr. James Rahman","Pediatrics","General Hospital",27
+"P0421","Dr. Sadia Martinez","Internal Medicine","City Hospital",25
+"P0422","Dr. Sarah Ali","Internal Medicine","Metro Clinic",18
+"P0423","Dr. William Brown","Cardiology","City Hospital",12
+"P0424","Dr. Charles Ali","Internal Medicine","General Hospital",32
+"P0425","Dr. Charles Ali","Pediatrics","City Hospital",32
+"P0426","Dr. Sadia Sarker","Internal Medicine","General Hospital",27
+"P0427","Dr. Hasan Jones","Pediatrics","Metro Clinic",25
+"P0428","Dr. John Garcia","Cardiology","Metro Clinic",18
+"P0429","Dr. Ayesha Johnson","Orthopedics","General Hospital",14
+"P0430","Dr. Jennifer Ahmed","Internal Medicine","Metro Clinic",19
+"P0431","Dr. Mary Chowdhury","Orthopedics","Metro Clinic",18
+"P0432","Dr. Mary Miah","Pediatrics","Metro Clinic",14
+"P0433","Dr. Elizabeth Chowdhury","Internal Medicine","Metro Clinic",10
+"P0434","Dr. Mary Chowdhury","Neurology","General Hospital",22
+"P0435","Dr. Joseph Brown","Orthopedics","City Hospital",5
+"P0436","Dr. Joseph Brown","Internal Medicine","City Hospital",18
+"P0437","Dr. Hasan Williams","Orthopedics","Metro Clinic",32
+"P0438","Dr. Robert Uddin","Internal Medicine","City Hospital",15
+"P0439","Dr. Tanvir Miah","Cardiology","City Hospital",25
+"P0440","Dr. Sarah Jones","Orthopedics","Metro Clinic",30
+"P0441","Dr. Jessica Martinez","Neurology","Metro Clinic",21
+"P0442","Dr. Tanvir Garcia","Neurology","City Hospital",10
+"P0443","Dr. James Jones","Pediatrics","General Hospital",24
+"P0444","Dr. Thomas Hossain","Internal Medicine","Metro Clinic",7
+"P0445","Dr. Farhana Khan","Orthopedics","General Hospital",22
+"P0446","Dr. John Ali","Pediatrics","City Hospital",10
+"P0447","Dr. Linda Islam","Orthopedics","Metro Clinic",26
+"P0448","Dr. Imran Rodriguez","Internal Medicine","General Hospital",14
+"P0449","Dr. Farhana Rahman","Neurology","Metro Clinic",3
+"P0450","Dr. Nusrat Rahman","Cardiology","City Hospital",27
+"P0451","Dr. Hasan Ahmed","Neurology","General Hospital",32
+"P0452","Dr. Barbara Ali","Pediatrics","City Hospital",23
+"P0453","Dr. Farhana Brown","Cardiology","City Hospital",22
+"P0454","Dr. James Davis","Pediatrics","Metro Clinic",8
+"P0455","Dr. Susan Williams","Internal Medicine","General Hospital",24
+"P0456","Dr. Tanvir Sarker","Cardiology","City Hospital",20
+"P0457","Dr. Elizabeth Rahman","Pediatrics","City Hospital",10
+"P0458","Dr. Hasan Khan","Internal Medicine","General Hospital",9
+"P0459","Dr. Farhana Khan","Neurology","City Hospital",34
+"P0460","Dr. Hasan Johnson","Internal Medicine","City Hospital",3
+"P0461","Dr. Jennifer Khan","Orthopedics","General Hospital",23
+"P0462","Dr. Imran Miah","Internal Medicine","General Hospital",18
+"P0463","Dr. Richard Williams","Internal Medicine","General Hospital",14
+"P0464","Dr. Elizabeth Khan","Orthopedics","General Hospital",8
+"P0465","Dr. Mary Rahman","Pediatrics","Metro Clinic",22
+"P0466","Dr. Sadia Islam","Pediatrics","General Hospital",4
+"P0467","Dr. Jessica Garcia","Internal Medicine","Metro Clinic",31
+"P0468","Dr. Robert Miah","Orthopedics","Metro Clinic",16
+"P0469","Dr. Elizabeth Jones","Orthopedics","Metro Clinic",6
+"P0470","Dr. Sadia Martinez","Neurology","City Hospital",3
+"P0471","Dr. Richard Ali","Pediatrics","Metro Clinic",25
+"P0472","Dr. Richard Hossain","Cardiology","Metro Clinic",20
+"P0473","Dr. Nusrat Ali","Pediatrics","City Hospital",15
+"P0474","Dr. Jennifer Sarker","Pediatrics","City Hospital",4
+"P0475","Dr. Nusrat Brown","Neurology","City Hospital",11
+"P0476","Dr. Charles Williams","Cardiology","General Hospital",23
+"P0477","Dr. Thomas Islam","Neurology","City Hospital",4
+"P0478","Dr. Jessica Rahman","Cardiology","City Hospital",29
+"P0479","Dr. Michael Rahman","Internal Medicine","Metro Clinic",27
+"P0480","Dr. Rahim Johnson","Cardiology","City Hospital",11
+"P0481","Dr. Elizabeth Davis","Neurology","General Hospital",3
+"P0482","Dr. Joseph Ali","Pediatrics","City Hospital",13
+"P0483","Dr. Patricia Miah","Cardiology","General Hospital",5
+"P0484","Dr. Charles Rodriguez","Cardiology","City Hospital",22
+"P0485","Dr. William Garcia","Orthopedics","City Hospital",32
+"P0486","Dr. Karen Johnson","Pediatrics","City Hospital",25
+"P0487","Dr. Imran Islam","Internal Medicine","City Hospital",28
+"P0488","Dr. David Jones","Neurology","General Hospital",6
+"P0489","Dr. Nusrat Smith","Internal Medicine","General Hospital",20
+"P0490","Dr. Ayesha Garcia","Pediatrics","Metro Clinic",25
+"P0491","Dr. David Chowdhury","Cardiology","General Hospital",8
+"P0492","Dr. Michael Ahmed","Cardiology","City Hospital",5
+"P0493","Dr. Mehedi Rodriguez","Pediatrics","Metro Clinic",24
+"P0494","Dr. Karim Williams","Cardiology","Metro Clinic",13
+"P0495","Dr. Sarah Davis","Cardiology","Metro Clinic",17
+"P0496","Dr. William Brown","Cardiology","City Hospital",24
+"P0497","Dr. Hasan Garcia","Neurology","General Hospital",30
+"P0498","Dr. John Sarker","Neurology","City Hospital",7
+"P0499","Dr. Sadia Ahmed","Orthopedics","Metro Clinic",22
+"P0500","Dr. Michael Rahman","Internal Medicine","City Hospital",12
